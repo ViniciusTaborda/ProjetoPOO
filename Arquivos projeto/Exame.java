@@ -4,7 +4,7 @@ public class Exame implements java.io.Serialiazable {
 
 	private String codigoExame;
 
-	public Exame(String convenio, String nomeMedico, String nomePaciente, String codigoExame) {
+	public Exame(String nomePaciente, String codigoExame) {
 
 	}
 
